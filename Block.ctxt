@@ -1,7 +1,10 @@
 #BlueJ class context
 comment0.target=Block
+comment0.text=\r\n\ Main\ idea\:\ the\ object\ rectangle\ rotates\ constantly\ so\ it\ removes\ a\ life\ from\ the\ Robot\ when\ touching\ it.\ \ \ \u0000\ \r\n\ -Actually\:\ the\ object\ rotates\ and\ has\ an\ image\ associated.\ \ \r\n\ @author\ (Camilo\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=
 comment1.target=Block()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Block\r\n\ \r\n\ \r\n
 comment2.params=
 comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ is\ called\ by\ the\ greenfoot\ framework\ to\ give\ actors\ a\ chance\ to\ perform\ some\ action.\ \r\n\ \r\n\ \r\n
 numComments=3

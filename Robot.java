@@ -1,32 +1,20 @@
 import greenfoot.*;
 
 /**
- * Write a description of class Robot here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Main idea: the class robot must be able to generate a character (object) that can move and interact with other objects.  
+ * -Actually: it has an image associated.
+ * @author (Camilo Muñoz Muñoz) 
+ * @version (1.0)
  */
 public class Robot extends Actor  
 {
-    // instance variables - replace the example below with your own
-    private int x;
+ 
 
     /**
-     * Constructor for objects of class Robot
+     * Default constructor for objects of class Robot
      */
     public Robot()
     {
     }
 
-    /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
-     */
-    public int sampleMethod(int y)
-    {
-        // put your code here
-        return x + y;
-    }
 }

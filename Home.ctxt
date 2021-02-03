@@ -1,10 +1,7 @@
 #BlueJ class context
 comment0.target=Home
-comment0.text=\r\n\ Write\ a\ description\ of\ class\ Home\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Main\ idea\:\ This\ object\ must\ allow\ the\ player\ to\ win\ after\ having\ eaten\ all\ the\ pizzas\ in\ the\ world-\u0000\ \r\n\ Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Camilo\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=
 comment1.target=Home()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Home\r\n
-comment2.params=y
-comment2.target=int\ sampleMethod(int)
-comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
-numComments=3
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Home\r\n
+numComments=2
