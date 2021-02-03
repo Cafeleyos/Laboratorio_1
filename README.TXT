@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This project was created for learning about object-oriented programming in Java through a simple video game developed on Greenfoot. Where the robot has to eat all the pizzas and go home to win avoiding the obstacles
+This project was created for learning about object-oriented programming in Java through a simple video game developed on Greenfoot. Where the robot has to eat all the pizzas avoiding the obstacles and then go home to win.
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Laboratory #1
