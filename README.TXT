@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project was created for learning about object-oriented programming in Java through a simple video game developed on Greenfoot. Where the robot has to eat all the pizzas and go home to win avoiding the obstacles
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Laboratory #1
+PURPOSE OF PROJECT: Learn object-oriented programming
+VERSION or DATE: V1.0
+AUTHORS: Camilo Andres Muñoz Muñoz
+
