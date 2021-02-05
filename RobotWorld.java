@@ -3,10 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 public class RobotWorld extends World
 {
 
-    /**
-     * Autor: Camilo Andres Muñoz Muñoz 
-     * 
-     */
+    
+    
     public RobotWorld()
     {    
         super(800, 600, 1); 
