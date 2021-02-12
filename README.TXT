@@ -5,5 +5,5 @@ This project was created for learning about object-oriented programming in Java 
 PROJECT TITLE: Laboratory #1
 PURPOSE OF PROJECT: Learn object-oriented programming
 VERSION or DATE: V1.0
-AUTHORS: Camilo Andres Muñoz Muñoz
+AUTHORS: Mariana Chacón Casallas, Camilo Andres Muñoz Muñoz and Santiago Andrés Arrieta Vera.
 
