@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=ScorePanel
-comment0.text=\r\n\ Main\ idea\:\ the\ object\ ScorePanel\ must\ show\ relevant\ information\ of\ the\ Robot\ like\ score\ and\ lifes.\ \r\n\ -Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Camilo\ Mu\u00F1oz\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
+comment0.text=\r\n\ Main\ idea\:\ the\ object\ ScorePanel\ must\ show\ relevant\ information\ of\ the\ Robot\ like\ score\ and\ lifes.\ \r\n\ -Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Mariana\ Chac\u00F3n)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=
 comment1.target=ScorePanel()
 comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Scorepanel\r\n

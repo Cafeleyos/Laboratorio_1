@@ -1,7 +1,25 @@
 #BlueJ class context
 comment0.target=Robot
-comment0.text=\r\n\ Main\ idea\:\ the\ class\ robot\ must\ be\ able\ to\ generate\ a\ character\ (object)\ that\ can\ move\ and\ interact\ with\ other\ objects.\ \ \r\n\ -Actually\:\ it\ has\ an\ image\ associated.\r\n\ @author\ (Camilo\ Mu\u00F1oz\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
+comment0.text=\r\n\ Main\ idea\:\ the\ class\ robot\ must\ be\ able\ to\ generate\ a\ character\ (object)\ that\ can\ move\ and\ interact\ with\ other\ objects.\ So\ it\ has\ to\ "eat"\ all\ Pizza\ instances\ avoiding\ the\ obstacles.\ Finally\ touching\ the\ house\ the\ game\ finishes.\ \ \ \ \r\n\ @author\ (Camilo\ Mu\u00F1oz\ Mu\u00F1oz,\ Mariana\ Chacon\ y\ Santiago\ Arrieta)\ \r\n\ @version\ (2.0)\r\n
 comment1.params=
 comment1.target=Robot()
 comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Robot\r\n
-numComments=2
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ is\ an\ inherted\ method\ called\ by\ the\ greenfoot\ framework\ that\ gives\ actors\ a\ chance\ to\ perform\ some\ action.\ In\ this\ case,\ calls\ 5\ methods\ of\ the\ class\ that\ make\ the\ robot\ interact\ with\ other\ instances.\ \r\n
+comment3.params=
+comment3.target=void\ robotMovement()
+comment3.text=\r\n\ Moves\ the\ robot\ by\ following\ the\ arrows\ of\ the\ keyboard.\ This\ by\ calling\ the\ method\ \ \r\n\ Greenfoot.isKeyDown\ that\ recognizes\ when\ a\ specific\ key\ is\ pressed.\ Then,\ it\ use\ the\ method\ \r\n\ getX\ and\ getY\ to\ take\ the\ actual\ position\ of\ the\ instance.\ Next,\ it\ adds\ or\ substracts\ to\ the\ x\ or\ y\ value\ for\ changing\ the\ coordinates.\r\n\ Finally,\ it\ use\ the\ method\ setLocation\ for\ setting\ the\ new\ x\ or\ y\ of\ the\ object.\r\n
+comment4.params=
+comment4.target=void\ detectWallCollision()
+comment4.text=\r\n\ Detects\ if\ the\ robot\ instance\ is\ touching\ a\ Wall\ instance.\ It\ works\ by\ using\ the\ inherited\ method\ \r\n\ isThouching\ that\ detects\ if\ a\ class\ is\ or\ not\ making\ contact\ with\ other\ specified\ class,\ in\ this\ case\ Wall.class.\r\n\ Then,\ it\ sets\ the\ initial\ position\ with\ the\ method\ setLocation(x,y)\ and\ reproduce\ a\ sound\ with\ the\ method\ \ \r\n\ Greenfoot.playSound\ that\ uses\ an\ mp3\ file.\ \r\n
+comment5.params=
+comment5.target=void\ detectBlockCollision()
+comment5.text=\r\n\ Detects\ if\ the\ robot\ instance\ is\ touching\ a\ Block\ instance.\ It\ works\ by\ using\ the\ inherited\ method\ \r\n\ isThouching\ that\ detects\ if\ a\ class\ is\ or\ not\ making\ contact\ with\ other\ specified\ class,\ in\ this\ case\ Block.class.\r\n\ Then,\ it\ sets\ the\ initial\ position\ with\ the\ method\ setLocation(x,y)\ and\ reproduce\ a\ sound\ with\ the\ method\ \ \r\n\ Greenfoot.playSound\ that\ uses\ an\ mp3\ file.\ \r\n
+comment6.params=
+comment6.target=void\ detectHome()
+comment6.text=\r\n\ Detects\ if\ the\ robot\ instance\ is\ touching\ a\ Home\ instance.\ It\ works\ by\ using\ the\ inherited\ method\ \r\n\ isThouching\ that\ detects\ if\ a\ class\ is\ or\ not\ making\ contact\ with\ other\ specified\ class,\ in\ this\ case\ Home.class.\r\n\ Then,\ it\ sets\ the\ initial\ position\ with\ the\ method\ setLocation(x,y)\ and\ reproduce\ a\ sound\ with\ the\ method\ \ \r\n\ Greenfoot.playSound\ that\ uses\ an\ mp3\ file.\ \r\n
+comment7.params=
+comment7.target=void\ eatPizza()
+comment7.text=\r\n\ Detects\ if\ the\ robot\ instance\ is\ touching\ a\ Pizza\ instance.\ It\ works\ by\ using\ the\ inherited\ method\ \r\n\ isThouching\ that\ detects\ if\ a\ class\ is\ or\ not\ making\ contact\ with\ other\ specified\ class,\ in\ this\ case\ Block.class.\r\n\ Then,\ it\ sets\ the\ initial\ position\ with\ the\ method\ setLocation(x,y)\ and\ reproduce\ a\ sound\ with\ the\ method\ \ \r\n\ Greenfoot.playSound\ that\ uses\ an\ mp3\ file.\ \r\n
+numComments=8

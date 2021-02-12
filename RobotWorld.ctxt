@@ -2,8 +2,8 @@
 comment0.target=RobotWorld
 comment1.params=
 comment1.target=RobotWorld()
-comment1.text=\r\n\ Autor\:\ Camilo\ Andres\ Mu\u00F1oz\ Mu\u00F1oz\ \r\n\ \r\n
+comment1.text=\r\n\ Author\:\ Camilo\ Andres\ Mu\u00F1oz\ Mu\u00F1oz\ ---\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \r\n\ It\ generates\ a\ world\ of\ defined\ dimensions\ (with\:800,\ height\:600,\ cellsize\:1)\ using\ the\ World\ class\ constructor\ and\ also\ adds\r\n\ the\ instances\ calling\ the\ private\ method\ prepareScenario.\r\n
 comment2.params=
 comment2.target=void\ prepareScenario()
-comment2.text=\r\n\r\n\ Method\ that\ adds\ the\ objects\ to\ the\ world\r\n
+comment2.text=\r\n\r\n\ It\ generates\ different\ instances\ of\ the\ classes\ inherted\ by\ actor\ and\ then\ adds\ them\ to\ the\ world\r\n\ with\ the\ method\ "addObject"\ (inherted\ by\ the\ World\ class)\ that\ places\ the\ instance\ in\ a\ defined\ position.\ \r\n
 numComments=3

@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=Wall
-comment0.text=\r\n\ Main\ idea\:\ A\ wall\ is\ an\ object\ that\ must\ interfere\ with\ the\ movement\ of\ the\ Robot.\ \r\n\ -Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Camilo\ Mu\u00F1oz\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
+comment0.text=\r\n\ Main\ idea\:\ A\ wall\ is\ an\ object\ that\ must\ interfere\ with\ the\ movement\ of\ the\ Robot.\ \r\n\ -Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Mariana\ Chac\u00F3n)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=
 comment1.target=Wall()
-comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wall\r\n
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Wall\r\n
 numComments=2

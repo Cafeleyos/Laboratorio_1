@@ -1,21 +1,25 @@
-import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
+import greenfoot.*;  
 
 public class RobotWorld extends World
 {
 
     /**
-     * Autor: Camilo Andres Muñoz Muñoz 
+     * Author: Camilo Andres Muñoz Muñoz ---               
      * 
+     * It generates a world of defined dimensions (with:800, height:600, cellsize:1) using the World class constructor and also adds
+     * the instances calling the private method prepareScenario.
      */
     public RobotWorld()
     {    
         super(800, 600, 1); 
         prepareScenario();
+        
     }
 
     /**
      *
-     * Method that adds the objects to the world
+     * It generates different instances of the classes inherted by actor and then adds them to the world
+     * with the method "addObject" (inherted by the World class) that places the instance in a defined position. 
      */
     
      private void prepareScenario()

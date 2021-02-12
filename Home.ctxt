@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Home
-comment0.text=\r\n\ Main\ idea\:\ This\ object\ must\ allow\ the\ player\ to\ win\ after\ having\ eaten\ all\ the\ pizzas\ in\ the\ world-\u0000\ \r\n\ Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Camilo\ Mu\u00F1oz)\ \r\n\ @version\ (1.0)\r\n
+comment0.text=\r\n\ Main\ idea\:\ This\ object\ must\ allow\ the\ player\ to\ win\ after\ having\ eaten\ all\ the\ pizzas\ in\ the\ world-\u0000\ \r\n\ Actually\:\ Only\ the\ image\ is\ associated.\r\n\ @author\ (Santiago\ Arrieta)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=
 comment1.target=Home()
 comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Home\r\n
